@@ -1,9 +1,4 @@
-# project-1
-password strength checker
-
-# Smart Password Strength Checker
-
-This is a beginner cybersecurity project built using Python.
+#Smart Password Strength Checker
 
 Features
 - Checks minimum password length
